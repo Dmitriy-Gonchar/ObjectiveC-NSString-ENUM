@@ -1,8 +1,8 @@
-## ObjectiveC-NSString-ENUM
+# ObjectiveC-NSString-ENUM
 
-# Macros for enums NSString-type;
+## Macros for enums NSString-type;
 
-# Classic ENUM syntax:
+## Classic ENUM syntax:
 typedef NS_ENUM(NSInteger, Mytype)
 {
 	kValue1 = 1,
@@ -11,7 +11,7 @@ typedef NS_ENUM(NSInteger, Mytype)
 	kValue4 = 4,
 };
 
-# ObjectiveC-NSString-ENUM syntax:
+## ObjectiveC-NSString-ENUM syntax:
 STRING_ENUM(SType2,
               kStringValue0,
               kStringValue1,
