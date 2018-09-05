@@ -19,6 +19,7 @@
 		      kStringValue3);
 
 automatic string-value from name: name == X, value == @"X"
+
 Autocomplete first type:
 ![Screen1.png](/imgs/firstType.png)
 and second type:
